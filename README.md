@@ -2,7 +2,7 @@
 preprint link: https://arxiv.org/abs/1708.04766
 ___
 ### manuscript foler
-The manuscript in pdf format is stored in this folder
+A copy of the manuscript in pdf format is stored in this folder.
 ___
 ### data folder
 Computated materials properties of 2D materials:
@@ -12,3 +12,11 @@ Computated materials properties of 2D materials:
 ___
 ### notebook folder
 Complete ipython notebook file for data analysis
+- data cleaning
+- feature engineering
+- trained machine learning models
+  - Linear regression (simple least square, Lasso, and Ridge)
+  - Support vector machine
+  - Random forest regression
+  - grid search for optimal parameters
+- model validation
