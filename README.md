@@ -20,3 +20,7 @@ Complete ipython notebook file for data analysis
   - Random forest regression
   - grid search for optimal parameters
 - model validation
+___
+### opt_structure folder
+optimized 2D materials structures in POSCAR format
+___
