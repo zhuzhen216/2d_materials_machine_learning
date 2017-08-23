@@ -1,1 +1,1 @@
-# Band gap and alignment of 2d materials explored by machine learning
+## Band gap and alignment of 2d materials explored by machine learning
